@@ -4,8 +4,8 @@ class Header extends Component {
 	render() {
 		return (
 			<div>
-				<header className="masthead lll">
-      <div className="container">
+			<header className="masthead">
+      <div className="container lll">
         <div className="row">
           <div className="col-lg-8 col-md-10 mx-auto">
             <div className="site-heading">
